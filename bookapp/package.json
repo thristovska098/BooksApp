@@ -1,8 +1,10 @@
 {
-  "name": "bookapp",
+  "name": "books-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@emotion/react": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
     "@jsonforms/core": "^3.0.0",
     "@jsonforms/examples": "^3.0.0",
     "@jsonforms/material-renderers": "^3.0.0",
